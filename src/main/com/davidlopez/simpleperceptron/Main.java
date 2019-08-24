@@ -1,3 +1,5 @@
+package main.com.davidlopez.simpleperceptron;
+
 import main.com.davidlopez.simpleperceptron.perceptron.Perceptron;
 
 import java.util.Scanner;
